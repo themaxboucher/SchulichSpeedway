@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap");
+
+:root {
+  font-family: "Pixelify Sans", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0; /* Optional: remove borders if you need a completely clean slate */
+  box-sizing: border-box; /* Include padding and border in the element's total width/height */
+}
